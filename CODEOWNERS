@@ -1,2 +1,3 @@
 foo/test @lowdesertpunk
-/bar/test
+/bar/test @lowdesertpunk
+**/qux/test @lowdesertpunk
